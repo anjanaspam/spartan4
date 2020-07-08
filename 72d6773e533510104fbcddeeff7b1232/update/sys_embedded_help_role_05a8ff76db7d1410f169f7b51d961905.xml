@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_spartan4.test1_user" name="sn_spartan4.test1_user">8da8bf76db7d1410f169f7b51d9619dc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2020-07-08 14:09:07</sys_created_on>
+        <sys_id>05a8ff76db7d1410f169f7b51d961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8da8bf76db7d1410f169f7b51d9619dc</sys_name>
+        <sys_package display_value="spartan4" source="sn_spartan4">72d6773e533510104fbcddeeff7b1232</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="spartan4">72d6773e533510104fbcddeeff7b1232</sys_scope>
+        <sys_update_name>sys_embedded_help_role_05a8ff76db7d1410f169f7b51d961905</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2020-07-08 14:09:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -11,9 +11,9 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>hello</label>
+        <label>test1</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>sn_spartan4_hello</name>
+        <name>sn_spartan4_test1</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
@@ -22,19 +22,19 @@
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-08 14:02:02</sys_created_on>
-        <sys_id>4407ff3e533510104fbcddeeff7b123c</sys_id>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2020-07-08 14:09:07</sys_created_on>
+        <sys_id>ef98bf76db7d1410f169f7b51d9619a9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>hello</sys_name>
+        <sys_name>test1</sys_name>
         <sys_package display_value="spartan4" source="sn_spartan4">72d6773e533510104fbcddeeff7b1232</sys_package>
         <sys_policy/>
         <sys_scope display_value="spartan4">72d6773e533510104fbcddeeff7b1232</sys_scope>
-        <sys_update_name>sys_db_object_4407ff3e533510104fbcddeeff7b123c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-08 14:02:02</sys_updated_on>
+        <sys_update_name>sys_db_object_ef98bf76db7d1410f169f7b51d9619a9</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2020-07-08 14:09:07</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="sn_spartan4.hello_user" name="sn_spartan4.hello_user">d1073f3e533510104fbcddeeff7b12af</user_role>
+        <user_role display_value="sn_spartan4.test1_user" name="sn_spartan4.test1_user">8da8bf76db7d1410f169f7b51d9619dc</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
